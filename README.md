@@ -1,6 +1,6 @@
 # Projeto Banco de Dados Universidade
 
-![Projeto Banco de Dados Universidade]([image.jpg](https://github.com/MaxwellNascimento/Projeto-Banco-de-Dados-Universidade/blob/main/capuniver.png))
+![Projeto Banco de Dados Universidade](https://github.com/MaxwellNascimento/Projeto-Banco-de-Dados-Universidade/blob/main/capuniver.png)
 
 
 
